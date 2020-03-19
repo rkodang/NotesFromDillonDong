@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fastdfs_client_v1.20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/学成在线/fastDFS安装/fastdfs_client_v1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
